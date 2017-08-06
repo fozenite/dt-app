@@ -1,2 +1,2 @@
-**npm install**
-**yarn start or npm start**
+- **npm install**
+- **yarn start or npm start**
